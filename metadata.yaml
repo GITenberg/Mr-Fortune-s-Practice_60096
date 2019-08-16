@@ -1,0 +1,29 @@
+_repo: Mr-Fortune-s-Practice_60096
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bailey, H. C. (Henry Christopher)
+    alias: Bailey, Henry Christopher
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '3131'
+    url: http://www.gutenberg.org/2009/agents/3131
+    wikipedia: http://en.wikipedia.org/wiki/H._C._Bailey
+description: ''
+gutenberg_issued: '2019-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forensic scientists -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+tableOfContents: The Ascot tragedy -- The president of San Jacinto -- The young doctor
+  -- The magic stone -- The snowball burglary -- The leading lady -- The unknown murderer.
+title: Mr. Fortune's Practice
+url: http://www.gutenberg.org/ebooks/60096
